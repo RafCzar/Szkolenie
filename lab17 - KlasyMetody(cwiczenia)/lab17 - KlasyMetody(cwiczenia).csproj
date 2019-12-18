@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{103F4A15-9F0E-4567-AA13-AC5599D851D7}</ProjectGuid>
+    <ProjectGuid>{C3A28A50-1A67-4D0A-90CF-D5AEA44CEBD0}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>lab16___Klasy_cwiczenia_</RootNamespace>
-    <AssemblyName>lab16 - Klasy%28cwiczenia%29</AssemblyName>
+    <RootNamespace>lab17___KlasyMetody_cwiczenia_</RootNamespace>
+    <AssemblyName>lab17 - KlasyMetody%28cwiczenia%29</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

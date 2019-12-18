@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{103F4A15-9F0E-4567-AA13-AC5599D851D7}</ProjectGuid>
+    <ProjectGuid>{4DE6F167-04AC-4F72-AC44-EBCB8D3D8232}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>lab16___Klasy_cwiczenia_</RootNamespace>
-    <AssemblyName>lab16 - Klasy%28cwiczenia%29</AssemblyName>
+    <RootNamespace>lab18___KlasyKonstruktory_cwiczenia_</RootNamespace>
+    <AssemblyName>lab18 - KlasyKonstruktory%28cwiczenia%29</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -45,7 +45,8 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Zwierze.cs" />
+    <Compile Include="Prostokat.cs" />
+    <Compile Include="Punkt.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
