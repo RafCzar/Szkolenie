@@ -1,24 +1,22 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Szkolenie
+namespace lab26___KlasyKonstruktoryStatyczne
 {
- 
     class Program
     {
-        public static int liczba1;
         static void Main(string[] args)
         {
+            //Powitanie powitanie1 = new Powitanie();
+            //Powitanie powitanie2 = new Powitanie();
 
-            int liczba = 0;
+            Console.WriteLine(Powitanie.wiadomosc);
 
-
-            Console.WriteLine(Program.liczba1);
             Console.ReadKey();
+
         }
     }
 }

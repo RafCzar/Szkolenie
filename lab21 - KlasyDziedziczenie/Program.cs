@@ -1,23 +1,23 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Szkolenie
+namespace lab21___KlasyDziedziczenie
 {
- 
     class Program
     {
-        public static int liczba1;
         static void Main(string[] args)
         {
+            Samochod samochod = new Samochod();
 
-            int liczba = 0;
+            samochod.Marka = "BMW";
 
+            Console.WriteLine(samochod.Marka);
 
-            Console.WriteLine(Program.liczba1);
+            samochod.PokazAuto();
+
             Console.ReadKey();
         }
     }

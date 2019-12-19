@@ -1,24 +1,23 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Szkolenie
+namespace lab20___KlasyWlasciwosci
 {
- 
     class Program
     {
-        public static int liczba1;
         static void Main(string[] args)
         {
+            Samochod samochod = new Samochod("Bmw", 2000);
 
-            int liczba = 0;
+            samochod.Marka = "jednak nie Bmw";
 
+            Console.WriteLine(samochod.Marka);
 
-            Console.WriteLine(Program.liczba1);
             Console.ReadKey();
+
         }
     }
 }

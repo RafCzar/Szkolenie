@@ -4,15 +4,25 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace lab18___KlasyKonstruktory
+namespace lab20___KlasyWlasciwosci
 {
     class Samochod
     {
-        public string marka;
-        public int rokProdukcji;
-        public int aktualnaPredkosc;
-        public int maksymalnaPredkosc;
-           
+        private string marka;
+        private int rokProdukcji;
+        private int aktualnaPredkosc;
+        private int maksymalnaPredkosc;
+
+        public string Marka
+        {
+            get { return marka; }
+            set { marka = value; }
+        }
+
+        public int RokProdukcji { get => rokProdukcji; set => rokProdukcji = value; }
+        public int AktualnaPredkosc { get => aktualnaPredkosc; set => aktualnaPredkosc = value; }
+        public int MaksymalnaPredkosc { get => maksymalnaPredkosc; set => maksymalnaPredkosc = value; }
+
 
         public Samochod(string marka, int rokProdukcji, int maksymalnaPredkosc)
         {
@@ -45,7 +55,7 @@ namespace lab18___KlasyKonstruktory
             Console.WriteLine($"Marka: {marka}{nl}Rok produkcji: {rokProdukcji}{nl}Aktualna predkosc: {aktualnaPredkosc}{nl}Maksymalna predkosc{maksymalnaPredkosc}");
         }
 
-        public void Przyspiesz(int wartosc)
+        public void Przyspiesz(int wartosc) 
         {
             if (aktualnaPredkosc + wartosc >= maksymalnaPredkosc)
             {
