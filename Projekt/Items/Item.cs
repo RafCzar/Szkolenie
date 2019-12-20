@@ -13,6 +13,5 @@ namespace Projekt.Items
         public ItemType Type { get; protected set; }
         public decimal Amount { get; protected set; }
         public DateTime Date { get; protected set; }
-
     }
 }
