@@ -119,6 +119,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab36 - Singleton", "lab36 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab37 - Lazy", "lab37 - Lazy\lab37 - Lazy.csproj", "{1A601B24-7DD6-4DE9-943D-5DC786823D02}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab - Wielowatkowosc2(WindowsForms)", "D:\WindowsForms - Wielowatkowosc\lab - Wielowatkowosc2(WindowsForms).csproj", "{11396796-6CB1-4020-87CE-E15B46D42CE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab38 - Entity", "lab38 - Entity\lab38 - Entity.csproj", "{DECAF819-0560-4925-9EE5-2CEE8C776E3E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -357,6 +361,14 @@ Global
 		{1A601B24-7DD6-4DE9-943D-5DC786823D02}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A601B24-7DD6-4DE9-943D-5DC786823D02}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A601B24-7DD6-4DE9-943D-5DC786823D02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11396796-6CB1-4020-87CE-E15B46D42CE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11396796-6CB1-4020-87CE-E15B46D42CE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11396796-6CB1-4020-87CE-E15B46D42CE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11396796-6CB1-4020-87CE-E15B46D42CE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DECAF819-0560-4925-9EE5-2CEE8C776E3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DECAF819-0560-4925-9EE5-2CEE8C776E3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DECAF819-0560-4925-9EE5-2CEE8C776E3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DECAF819-0560-4925-9EE5-2CEE8C776E3E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
