@@ -109,6 +109,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab33 - LinqStrings", "lab3
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab34 - ZapiszDoPliku", "lab34 - ZapiszDoPliku\lab34 - ZapiszDoPliku.csproj", "{C2C9D57C-5884-4376-B565-E8D954DA028D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab34 - OdczytZPliku", "lab34 - OdczytZPliku\lab34 - OdczytZPliku.csproj", "{4497F763-27B6-460A-8FEC-B697E6A66E61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab35 - BazaDanych", "lab35 - BazaDanych\lab35 - BazaDanych.csproj", "{73AE85CF-D8A1-4928-B909-C8FB922588B8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -327,6 +331,14 @@ Global
 		{C2C9D57C-5884-4376-B565-E8D954DA028D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2C9D57C-5884-4376-B565-E8D954DA028D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2C9D57C-5884-4376-B565-E8D954DA028D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4497F763-27B6-460A-8FEC-B697E6A66E61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4497F763-27B6-460A-8FEC-B697E6A66E61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4497F763-27B6-460A-8FEC-B697E6A66E61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4497F763-27B6-460A-8FEC-B697E6A66E61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73AE85CF-D8A1-4928-B909-C8FB922588B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73AE85CF-D8A1-4928-B909-C8FB922588B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73AE85CF-D8A1-4928-B909-C8FB922588B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73AE85CF-D8A1-4928-B909-C8FB922588B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
