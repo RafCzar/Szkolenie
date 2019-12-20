@@ -15,6 +15,7 @@ namespace lab38___Entity
 
         public RentBikeContext() : base("ttt") 
         {
+
         }
 
     }
