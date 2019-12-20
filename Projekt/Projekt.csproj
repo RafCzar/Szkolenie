@@ -52,6 +52,7 @@
     <Compile Include="Items\Outcome.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Service.cs" />
     <Compile Include="Statistics\List.cs" />
     <Compile Include="Statistics\Summary.cs" />
   </ItemGroup>

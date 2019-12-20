@@ -57,6 +57,8 @@ namespace Projekt
             }
         }
 
+
+
         static void Main(string[] args)
         {
             file = new File();
