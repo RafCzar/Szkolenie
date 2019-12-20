@@ -107,6 +107,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab33 - LinqSingleResult", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab33 - LinqStrings", "lab33 - LinqStrings\lab33 - LinqStrings.csproj", "{5B2C86D8-839F-49CE-BEC1-463D5A2E88BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab34 - ZapiszDoPliku", "lab34 - ZapiszDoPliku\lab34 - ZapiszDoPliku.csproj", "{C2C9D57C-5884-4376-B565-E8D954DA028D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -321,6 +323,10 @@ Global
 		{5B2C86D8-839F-49CE-BEC1-463D5A2E88BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B2C86D8-839F-49CE-BEC1-463D5A2E88BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B2C86D8-839F-49CE-BEC1-463D5A2E88BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2C9D57C-5884-4376-B565-E8D954DA028D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2C9D57C-5884-4376-B565-E8D954DA028D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2C9D57C-5884-4376-B565-E8D954DA028D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2C9D57C-5884-4376-B565-E8D954DA028D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
